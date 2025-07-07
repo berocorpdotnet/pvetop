@@ -23,7 +23,7 @@ A terminal-based monitoring tool for Proxmox VE, similar to `top` but for virtua
 ### Build from source
 
 ```bash
-git clone https://github.com/woodzy/pvetop.git
+git clone https://github.com/berocorpdotnet/pvetop.git
 cd pvetop
 go mod download
 go build -o pvetop
