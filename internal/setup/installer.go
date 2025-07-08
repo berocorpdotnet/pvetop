@@ -8,9 +8,9 @@ import (
 	"github.com/charmbracelet/bubbles/textinput"
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
-	"github.com/lucaswoodzy/pvetop/internal/api"
-	"github.com/lucaswoodzy/pvetop/internal/config"
-	"github.com/lucaswoodzy/pvetop/internal/theme"
+	"github.com/berocorpdotnet/pvetop/internal/api"
+	"github.com/berocorpdotnet/pvetop/internal/config"
+	"github.com/berocorpdotnet/pvetop/internal/theme"
 )
 
 

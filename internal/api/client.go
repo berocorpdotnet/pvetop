@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/lucaswoodzy/pvetop/internal/models"
+	"github.com/berocorpdotnet/pvetop/internal/models"
 )
 
 type Client struct {

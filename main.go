@@ -5,10 +5,10 @@ import (
 	"os"
 
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/lucaswoodzy/pvetop/internal/api"
-	"github.com/lucaswoodzy/pvetop/internal/config"
-	"github.com/lucaswoodzy/pvetop/internal/setup"
-	"github.com/lucaswoodzy/pvetop/internal/ui"
+	"github.com/berocorpdotnet/pvetop/internal/api"
+	"github.com/berocorpdotnet/pvetop/internal/config"
+	"github.com/berocorpdotnet/pvetop/internal/setup"
+	"github.com/berocorpdotnet/pvetop/internal/ui"
 )
 
 func main() {

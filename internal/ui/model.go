@@ -9,9 +9,9 @@ import (
 	"github.com/charmbracelet/bubbles/key"
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
-	"github.com/lucaswoodzy/pvetop/internal/api"
-	"github.com/lucaswoodzy/pvetop/internal/models"
-	"github.com/lucaswoodzy/pvetop/internal/theme"
+	"github.com/berocorpdotnet/pvetop/internal/api"
+	"github.com/berocorpdotnet/pvetop/internal/models"
+	"github.com/berocorpdotnet/pvetop/internal/theme"
 )
 
 

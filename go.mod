@@ -1,4 +1,4 @@
-module github.com/lucaswoodzy/pvetop
+module github.com/berocorpdotnet/pvetop
 
 go 1.21
 

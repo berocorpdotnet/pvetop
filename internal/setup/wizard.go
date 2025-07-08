@@ -9,7 +9,7 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 	"golang.org/x/term"
-	"github.com/lucaswoodzy/pvetop/internal/config"
+	"github.com/berocorpdotnet/pvetop/internal/config"
 )
 
 func RunSetupWizard() (*config.Config, error) {
